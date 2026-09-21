@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SYNAPSE-ARM: 7-Architecture Multi-Agent Industrial Assembly System
 ### *Autonomous Negotiating Agents for Resource Sharing & Sequential Assembly Data Contracts*
 
@@ -151,3 +152,7 @@ python run.py --cli
 ```bash
 python -m pytest tests/ -v
 ```
+=======
+# AGENTIC_AI
+AUTONOMOUS UNIT THROUGH MANIPULATOR
+>>>>>>> 3370c229c5305436571b9f820d6010e10d25c570
