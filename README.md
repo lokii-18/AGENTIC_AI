@@ -21,7 +21,7 @@ Rather than superficial demos, **all 7 classical and modern multi-agent architec
                                       |
                                       v
 +-------------------------------------------------------------------------------+
-|                       2. HIERARCHICAL ARCHITECTURE                            |
+|     .................                  2. HIERARCHICAL ARCHITECTURE                            |
 |        Cell Supervisor A (Welding)   <--->   Cell Supervisor B (Metrology)    |
 |        • Sub-task decomposition              • Deadlock arbitration           |
 |        • Regional quota management           • Emergency token subsidy        |
